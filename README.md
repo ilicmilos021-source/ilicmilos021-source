@@ -34,7 +34,6 @@ Self-taught developer from Novi Sad, Serbia. I build production web applications
 |---|---|---|
 | Braca Drinic | Business website | [bracadrinic.rs](https://www.bracadrinic.rs) |
 | PK Gym | Fitness center website | [pkgym.rs](https://www.pkgym.rs) |
-| Apartmani Filip Pakostane | Vacation apartment rentals, Pakostane | [apartmanifilippakostane.rs](https://apartmanifilippakostane.rs) |
 | Inner Beauty | Cosmetics salon, multilingual | [innerbeauty.rs](https://innerbeauty.rs) |
 
 ---
