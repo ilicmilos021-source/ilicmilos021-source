@@ -26,7 +26,7 @@ Self-taught developer from Novi Sad, Serbia. I build production web applications
 |---|---|---|
 | MK Energy | Corporate website for an energy company | [mkenergy.rs](https://www.mkenergy.rs) |
 | Gaspar Prevoz | Transport & moving services, Vrbas | [prevozgaspar.rs](https://prevozgaspar.rs) |
-| Breckey.co | Company portfolio — IT services, real estate management | *Coming soon* |
+| Breckey.co | Company portfolio — IT services, real estate management | [breckeyco-portfolio-production.up.railway.app](https://breckeyco-portfolio-production.up.railway.app) |
 | Breckey CMS | Multi-tenant CMS for real estate rental management | [breckey-cms-production.up.railway.app](https://breckey-cms-production.up.railway.app) |
 
 ### Blazor WebAssembly
