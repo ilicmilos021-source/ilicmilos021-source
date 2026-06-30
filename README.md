@@ -10,6 +10,8 @@ Self-taught developer from Novi Sad, Serbia. I build production web applications
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
@@ -17,14 +19,23 @@ Self-taught developer from Novi Sad, Serbia. I build production web applications
 
 ## Live Projects
 
+### Next.js
+
 | Project | Description | Link |
 |---|---|---|
 | MK Energy | Corporate website for an energy company | [mkenergy.rs](https://www.mkenergy.rs) |
 | Gaspar Prevoz | Transport & moving services, Vrbas | [prevozgaspar.rs](https://prevozgaspar.rs) |
-| Braca Drinic | Business website | [bracadrinic.rs](https://www.bracadrinic.rs) |
-| PK Gym | Fitness center website | [pkgym.rs](https://www.pkgym.rs) |
 | Aloe Vera Natural | Product & brand website | [aloeveranatural.rs](https://www.aloeveranatural.rs) |
 | Breckey.co | Company portfolio — IT services, real estate management | *Coming soon* |
+
+### Blazor WebAssembly
+
+| Project | Description | Link |
+|---|---|---|
+| Braca Drinic | Business website | [bracadrinic.rs](https://www.bracadrinic.rs) |
+| PK Gym | Fitness center website | [pkgym.rs](https://www.pkgym.rs) |
+| Apartmani Filip Pakostane | Vacation apartment rentals, Pakostane | [apartmanifilippakostane.rs](https://apartmanifilippakostane.rs) |
+| Inner Beauty | Cosmetics salon, multilingual | [innerbeauty.rs](https://innerbeauty.rs) |
 
 ---
 
@@ -33,7 +44,7 @@ Self-taught developer from Novi Sad, Serbia. I build production web applications
 - **Informational & corporate websites** — fast, multilingual, SEO-ready
 - **Custom software** — internal tools, invoicing systems, CMS platforms
 - **Full-stack web apps** — Next.js App Router, Server Actions, PostgreSQL, no ORM
-- **Deployment pipelines** — Railway hosting, DNS configuration, environment setup
+- **Deployment pipelines** — Railway, cPanel, DNS configuration, environment setup
 
 ---
 
@@ -46,4 +57,4 @@ Self-taught developer from Novi Sad, Serbia. I build production web applications
 
 ## Contact
 
-📧 ilicmilos021@gmail.com
+ilicmilos021@gmail.com
