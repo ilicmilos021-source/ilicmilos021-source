@@ -25,7 +25,6 @@ Self-taught developer from Novi Sad, Serbia. I build production web applications
 |---|---|---|
 | MK Energy | Corporate website for an energy company | [mkenergy.rs](https://www.mkenergy.rs) |
 | Gaspar Prevoz | Transport & moving services, Vrbas | [prevozgaspar.rs](https://prevozgaspar.rs) |
-| Aloe Vera Natural | Product & brand website | [aloeveranatural.rs](https://www.aloeveranatural.rs) |
 | Breckey.co | Company portfolio — IT services, real estate management | *Coming soon* |
 
 ### Blazor WebAssembly
