@@ -14,6 +14,7 @@ Self-taught developer from Novi Sad, Serbia. I build production web applications
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 ![Kontrol CMS](https://img.shields.io/badge/Kontrol_CMS-E-commerce-1a7f4b?style=flat)
 
 ---
@@ -46,6 +47,14 @@ Self-taught developer from Novi Sad, Serbia. I build production web applications
 - **Custom software** — internal tools, invoicing systems, CMS platforms
 - **Full-stack web apps** — Next.js App Router, Server Actions, PostgreSQL, no ORM
 - **Deployment pipelines** — Railway, cPanel, DNS configuration, environment setup
+
+---
+
+### Desktop (Electron)
+
+| Project | Description |
+|---|---|
+| Breckey Pošta | Internal desktop app — tenant management, invoice creation & tracking for a 5-floor business center (74 tenants) |
 
 ---
 
